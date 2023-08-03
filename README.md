@@ -5,5 +5,3 @@
 - 💬 Ask me about: anything
 - 📫 My discord: appu26j
 - 😄 Pronouns: He/they
-
-https://github.com/AppleClient/AppleClient/releases/tag/Apple-Client
